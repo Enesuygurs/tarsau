@@ -1,4 +1,3 @@
 // tarsau.c
-#include <stdio.h>
-int textMi() {}
+int arsivOlustur() {}
 int main() { return 0; }
