@@ -1,3 +1,3 @@
 // tarsau.c
-int arsivOlustur() { /* header yazimi */ }
+int arsivAc() {}
 int main() { return 0; }
