@@ -1,3 +1,3 @@
 // tarsau.c
-int arsivAc() {}
+void dizinOlustur() {}
 int main() { return 0; }
