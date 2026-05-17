@@ -1,5 +1,7 @@
+.PHONY: all clean
+
 all:
 	gcc tarsau.c -o tarsau
 
 clean:
-	rm tarsau
+	rm -f tarsau
